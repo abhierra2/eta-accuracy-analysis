@@ -1,6 +1,6 @@
 # ETA Accuracy & Route Quality Analysis
 
-A lightweight end-to-end analytics project for evaluating ETA accuracy and route-quality proxy metrics using NYC Taxi trip data. This project is designed to demonstrate analytical capabilities relevant to a Mapping Data Scientist role at companies like Lyft.
+A lightweight end-to-end analytics project for evaluating ETA accuracy and route-quality proxy metrics using NYC Taxi trip data. This project is designed to demonstrate analytical capabilities relevant to a Mapping Data Scientist role.
 
 ## Problem Framing
 
@@ -394,7 +394,7 @@ Metrics are computed across:
 3. **Guardrail analysis**: Ensure no degradation in user experience metrics
 4. **Statistical testing**: Use appropriate tests (t-test, Mann-Whitney U) with multiple comparison correction
 
-## Scaling to Production (Lyft Context)
+## Scaling to Production
 
 ### Data Infrastructure
 
